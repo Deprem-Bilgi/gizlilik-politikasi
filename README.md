@@ -1,29 +1,30 @@
-# Deprem Bilgi Discord Bot Gizlilik Politikası
+# Deprem Bilgi Gizlilik Politikası
 
-**Deprem Bilgi Bot Gizlilik Politikası**
-Son Değiştirilme Tarihi: **24.08.2023**
+## Son Değiştirilme Tarihi: 08.12.2023
 
-Bu gizlilik politikası **Deprem Bilgi (1010946492544069724)** botuna aittir.
+### Toplanan Veriler
+- Sunucu ID (Bot)
+- Kullanıcı ID (Bot)
+- Webhok URL (Bot)
+- Kanal ID (Bot)
+- Discord API ile gelen tüm veriler (Site)
 
-## Bilgi
-- Kullanıcı: Discord platformuna kayıtlı olan her bir tekil kullanıcı.
-- ID: Her kullanıcıya özgü oluşturulmuş, kullanıcıyı temsil eden bir kimlik.
-- Sunucu: Discord platformuna kayıtlı olan her bir tekil sunucu.
+### Veri Toplama Amaçları
+Bu veriler, botun sorunsuz bir şekilde çalışabilmesin ve size daha iyi bir deneyim sağlaması için toplanmaktadır.
 
-### 1) Saklanan Verileriniz
-#### 1A) Komut Kullanılarak Saklanılan Veriler
-- Kullanıcı ID'si
-- Kullanılan sunucu ID'si
-- Sistem için ayarlanan kanal(lar)
+### Veri Kullanımı
+Toplanan veriler sadece botun işlevselliğini desteklemek amacıyla kullanılır ve üçüncü taraflarla paylaşılmaz.
 
-#### 1B) Otomatik Saklanılan Veriler
-- Sunucu:
-  - ID'si, ismi, profil fotoğrafı, üye sayısı, sunucu sahibi, kanal sayısı, bot eklenme tarihi.
-- Üye:
-  - ID'si, ismi, hesap oluşturulma tarihi, sunucuya giriş tarihi.
+### Veri Güvenliği
+Tüm toplanan veriler, güvenli bir şekilde saklanır ve yetkisiz erişimlere karşı koruma altındadır.
 
-### 2) Verilerinizin Korunumu
-Verileriniz, şifreleme yöntemiyle, erişime kısıtlı bir veritabanında saklanır. Verilerinizin gizliliği hakkında destekdeprembilgi@gmail.com adresine e-posta göndererek bilgi alabilirsiniz. Verileriniz hakkında endişeniz veya sorularınız varsa, yardım için bir bilet oluşturabilirsiniz.
+### Kullanıcı Hakları
+Kullanıcılar, toplanan verileri inceleme ve düzeltme hakkına sahiptirler. Ayrıca, verilerin silinmesini talep edebilirler.
 
-### 3) Verilerinizin Silinimi
-Verilerinizin silinmesi için talepte bulunabilirsiniz. Verilerinizin tamamen silinmesi için talebinizi trt1 (787384609947385908) isim etiketli ve ID'li kullanıcıya doğrudan mesaj atarak veya destekdeprembilgi@gmail.com adresine e-posta göndererek iletebilirsiniz. Talebiniz, alındıktan 30 gün içinde işleme alınacaktır.
+### Gizlilik Politikası Değişiklikleri
+Bu politika zaman zaman güncellenebilir. Değişiklikler, bu sayfada yayınlandığı tarihte yürürlüğe girer. Her kullanıcı gizlilik politikasını okumuş ve kabul etmiş sayılır.
+
+### İletişim
+Kullanıcılar, hizmetlerle ilgili herhangi bir soru veya bildirim için iletişim kanallarımızı kullanabilirler: e-posta support@deprembilgi.xyz ve [Discord sunucusu](https://discord.com/invite/vxAVmzev23).
+
+Bu gizlilik politikası, Discord botu "Deprem Bilgi" ve [deprembilgi.xyz](https://deprembilgi.xyz) sitesi için geçerlidir.
