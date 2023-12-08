@@ -13,7 +13,7 @@
 Bu veriler, botun sorunsuz bir şekilde çalışabilmesin ve size daha iyi bir deneyim sağlaması için toplanmaktadır.
 
 ### Veri Kullanımı
-Toplanan veriler sadece botun işlevselliğini desteklemek amacıyla kullanılır ve üçüncü taraflarla paylaşılmaz.
+Toplanan veriler botun işlevselliğini desteklemek amacıyla kullanılır ve siteden gelen veriler kullanıcı deneyimi için gerekli analizler sağlanması amacıyla Google Analytics ile paylaşılır.
 
 ### Veri Güvenliği
 Tüm toplanan veriler, güvenli bir şekilde saklanır ve yetkisiz erişimlere karşı koruma altındadır.
